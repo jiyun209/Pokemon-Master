@@ -6,5 +6,4 @@
 - Using Pokemon Class
 - Make battle function
 - User must choose two different Pokemons
-# Pokemon-Master
 # OOP-hw3
